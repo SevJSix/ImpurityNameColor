@@ -1,0 +1,8 @@
+name: ImpurityNC
+version: ${project.version}
+main: me.impurity.impuritync.ImpurityNC
+authors: [SevJ6]
+description: Name color plugin for impurity.me
+commands:
+  nc:
+    description: do name stuff larp
